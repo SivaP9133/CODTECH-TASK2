@@ -3,6 +3,6 @@
 **Name:** POGIRI SIVA  
 **Company Name:** CODTECH IT SOLUTIONS  
 **ID:**  CT12DS2488  
-**Domain:** FRONTEND  
+**Domain:** FRONTEND DEVELOPMENT  
 **Durtion:** SEPTEMBER 20th,2024 TO NOVEMBER 20TH,2024  
 **Mentor:**  NEELA SANTHOSH KUMAR  
