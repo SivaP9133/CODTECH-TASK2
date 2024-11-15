@@ -1,11 +1,18 @@
 # CODTECH-TASK2  
+
 ## <ins>PROJECT NAME</ins>: INTERACTIVE QUIZ APPLICATION  
-**<ins>Name</ins>:** POGIRI SIVA  
-**<ins>Company Name</ins>:** CODTECH IT SOLUTIONS  
+
+**<ins>NAME</ins>:** POGIRI SIVA  
+
+**<ins>COMPANY NAME</ins>:** CODTECH IT SOLUTIONS  
+
 **<ins>ID</ins>:**  CT12DS2488  
-**<ins>Domain</ins>:** FRONTEND DEVELOPMENT  
-**<ins>Duration</ins>:** SEPTEMBER 20th,2024 TO NOVEMBER 20TH,2024  
-**<ins>Mentor</ins>:**  NEELA SANTHOSH KUMAR 
+
+**<ins>DOMAIN</ins>:** FRONTEND DEVELOPMENT  
+
+**<ins>DURATION</ins>:** SEPTEMBER 20th,2024 TO NOVEMBER 20TH,2024  
+
+**<ins>MENTOR</ins>:**  NEELA SANTHOSH KUMAR 
 
 ## MATH QUIZ- AN INTERACTIVE QUIZ APPLICATION  
 
