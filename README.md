@@ -1,11 +1,12 @@
 # CODTECH-TASK2  
-# PROJECT NAME: INTERACTIVE QUIZ APPLICATION  
-**Name:** POGIRI SIVA  
-**Company Name:** CODTECH IT SOLUTIONS  
-**ID:**  CT12DS2488  
-**Domain:** FRONTEND DEVELOPMENT  
-**Durtion:** SEPTEMBER 20th,2024 TO NOVEMBER 20TH,2024  
-**Mentor:**  NEELA SANTHOSH KUMAR  
+## <ins>PROJECT NAME</ins>: INTERACTIVE QUIZ APPLICATION  
+**<ins>Name</ins>:** POGIRI SIVA  
+**<ins>Company Name</ins>:** CODTECH IT SOLUTIONS  
+**<ins>ID</ins>:**  CT12DS2488  
+**<ins>Domain</ins>:** FRONTEND DEVELOPMENT  
+**<ins>Durtion</ins>:** SEPTEMBER 20th,2024 TO NOVEMBER 20TH,2024  
+**<ins>Mentor</ins>:**  NEELA SANTHOSH KUMAR 
+
 ## MATH QUIZ- AN INTERACTIVE QUIZ APPLICATION  
 
 This HTML code is the basic structure for a "Math Quiz" web page. It sets up the layout and includes placeholders for styling and functionality that will be provided by external CSS and JavaScript files. Here’s a breakdown:
@@ -37,4 +38,11 @@ This HTML code is the basic structure for a "Math Quiz" web page. It sets up the
 This code sets up a simple and interactive Math Quiz webpage. It creates a structured layout with placeholders for quiz content, results, and controls (Submit, Retry, Show Answer buttons). Styling and functionality are externalized in `styles.css` and `script.js`, making the code organized and modular for easier development and maintenance.
 
 ## <ins>OUTPUT</ins>:
+
+![Screenshot 2024-11-15 145207](https://github.com/user-attachments/assets/510882c1-861a-4d26-89e1-3ad624d2aada)
+
+![screencapture-sivap9133-github-io-CODTECH-TASK2-2024-11-15-14_53_37](https://github.com/user-attachments/assets/2ea47d87-7e1d-4f18-8dad-adcf2de38eff)
+
+![screencapture-sivap9133-github-io-CODTECH-TASK2-2024-11-15-14_55_19](https://github.com/user-attachments/assets/6a0b9157-7356-4128-8568-90e4a5e0a87b)
+
 
