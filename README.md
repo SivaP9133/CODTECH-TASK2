@@ -4,7 +4,7 @@
 **<ins>Company Name</ins>:** CODTECH IT SOLUTIONS  
 **<ins>ID</ins>:**  CT12DS2488  
 **<ins>Domain</ins>:** FRONTEND DEVELOPMENT  
-**<ins>Durtion</ins>:** SEPTEMBER 20th,2024 TO NOVEMBER 20TH,2024  
+**<ins>Duration</ins>:** SEPTEMBER 20th,2024 TO NOVEMBER 20TH,2024  
 **<ins>Mentor</ins>:**  NEELA SANTHOSH KUMAR 
 
 ## MATH QUIZ- AN INTERACTIVE QUIZ APPLICATION  
